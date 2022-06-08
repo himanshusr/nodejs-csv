@@ -1,12 +1,12 @@
 {
   "name": "kosh",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nodejs-Csv parser",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node index.js"
   },
-  "author": "",
+  "author": "Himanshu Singh Rao",
   "license": "ISC"
 }
