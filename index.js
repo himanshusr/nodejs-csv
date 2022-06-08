@@ -1,6 +1,6 @@
 var fs = require("fs");
-const textToJson = require("./textToJson");
-const arrayToCSV = require("./arrayToCsv");
+const textToJson = require("./methods/textToJson");
+const arrayToCSV = require("./methods/arrayToCsv");
 
 //Step -1 Read the text file 
 fs.readFile("./data.txt", "utf8", function (err, data) {
