@@ -1,5 +1,7 @@
 # Nodejs-Csv 
 
+# Features
+No external libraries used.
 
 # Setup
 
